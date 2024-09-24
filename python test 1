@@ -1,0 +1,20 @@
+# Variable
+variable_zahl = 10
+#print(variable_zahl)
+
+variable_text = 'hallo'
+
+
+#print(variable_text)
+
+#int ganzahlen
+#float gleitkommazahlen
+#string Zeichenkette
+#complex komplexe Datentypen (3x+m)
+
+type(variable_zahl)
+type(variable_text)
+
+zahl_zu_text = str(variable_zahl)
+variable_zahl, zahl_zu_text
+
